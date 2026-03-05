@@ -33,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0125-valid-palindrome) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 <!---LeetCode Topics End-->
