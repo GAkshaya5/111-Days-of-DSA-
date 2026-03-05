@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
