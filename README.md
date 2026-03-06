@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,10 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0125-valid-palindrome) |
+| [0088-merge-sorted-array](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0125-valid-palindrome) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/GAkshaya5/111-Days-of-DSA-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
